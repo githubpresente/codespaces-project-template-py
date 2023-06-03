@@ -1,13 +1,11 @@
-# Support
+# Soporte
 
-## How to file issues and get help
+## Cómo reportar problemas y obtener ayuda
 
-This project uses GitHub Issues to track bugs and feature requests. Please search the existing
-issues before filing new issues to avoid duplicates.  For new issues, file your bug or
-feature request as a new Issue.
+Este proyecto utiliza GitHub Issues para realizar un seguimiento de los errores y las solicitudes de funciones. Antes de presentar nuevos problemas, te recomendamos que busques en los problemas existentes para evitar duplicados. Para nuevos problemas, presenta tu informe de error o solicitud de función como un nuevo problema.
 
-For help and questions about using this project, please [file an issue](/../../issues/new)
+Para obtener ayuda y hacer preguntas sobre el uso de este proyecto, por favor [presenta un problema](/../../issues/new).
 
-## Microsoft Support Policy
+## Política de soporte de Microsoft
 
-Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+El soporte para este **PROYECTO o PRODUCTO** se limita a los recursos mencionados anteriormente.
