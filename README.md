@@ -63,7 +63,7 @@ Lo que tienes en este momento es un entorno preconfigurado donde todos los runti
 
 Esta aplicación de Python está utilizando FastAPI, un potente framework que auto documenta sus endpoints de API. La API solo tiene un extremo que genera una cadena pseudoaleatoria única que se puede usar como token.
 
-![FastAPI Ejecutandose](../../images/api-running.png)
+![FastAPI Ejecutandose](https://github.com/githubpresente/codespaces-project-template-py/edit/main/README.md#:~:text=fast%2Dapi-,.,-png)
 
 
 <details>
